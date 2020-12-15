@@ -1,0 +1,3 @@
+* The original dataset can be found here: https://www.properati.com.co/data/
+
+* The dataset of this reposity can download here: https://mailudesedu-my.sharepoint.com/:x:/g/personal/val14152023_mail_udes_edu_co/ETRqGLyYTbpIv5-SiVZ1MZABpgbhF2XIpSyRwHSD3fJYYg?e=B2XCsc
