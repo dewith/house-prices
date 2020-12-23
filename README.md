@@ -11,7 +11,7 @@
 
 This project's aim is to predict the prices of properties (located in Buenos Aires) published in [**Properati**](https://properati.com/).
 
-**-- Project status:** [ Completed ]
+**-> Project status:** [ Completed ]
 
 <br>
 
@@ -23,7 +23,7 @@ This project's aim is to predict the prices of properties (located in Buenos Air
     - [Methods used](#methods-used)
     - [Technologies](#technolgies)
 - [Results](#results)
-    - [Next steps](#next-steps)
+- [Next steps](#next-steps)
 - [Contact](#contact)
 
 <br>
@@ -55,7 +55,10 @@ Describe here the problem or the situation
 
 Coloca gráficos y conclusiones aquí
 
-## Next steps
+
+# Next steps
+[(Back to top)](#table-of-contents)
+
 - Resercha more data
 
 # Contact
