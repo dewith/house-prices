@@ -75,7 +75,7 @@ To improve the performance of the model the following steps could be taken (orde
 # Contact
 [(Back to top)](#table-of-contents)
 
-You can visit my [**personal website**](https://dewith.co/), follow me on [**Twitter**](https://twitter.com/DewithMiramon/), connect with me on [**LinkedIn**](https://linkedin.com/in/dewithm/), or check out the rest of my projects on my [**GitHub**](https://github.com/dewith/).
+You can visit my [**Personal Website**](https://dewith.co/), follow me on [**Twitter**](https://twitter.com/DewithMiramon/), connect with me on [**LinkedIn**](https://linkedin.com/in/dewithm/), or check out the rest of my projects on my [**GitHub**](https://github.com/dewith/).
 
 <br>
 <br>
