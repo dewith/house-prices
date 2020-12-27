@@ -3,18 +3,16 @@
 
 # House Prices Prediction 🏡
 
-<!-- Add buttons here 
+<!-- Add buttons here -->
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dewith/house-prices.git/HEAD?filepath=P2_properati.ipynb)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dewith/house-prices)
 ![GitHub](https://img.shields.io/github/license/dewith/house-prices)
--->
+
 
 This project's aim is to predict the prices of properties (located in Buenos Aires) published in [**Properati**](https://properati.com/).
 
 **-> Project status:** [ Completed ]
 
-[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](
-https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fdewith%2Fhouse-prices%2Fblob%2Fmain%2FP2_properati.ipynb)
 
 
 <br>
