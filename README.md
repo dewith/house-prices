@@ -9,13 +9,13 @@
 ![GitHub](https://img.shields.io/github/license/dewith/house-prices)
 -->
 
-
-[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](
-https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fdewith%2Fhouse-prices%2Fblob%2Fmain%2FP2_properati.ipynb)
-
 This project's aim is to predict the prices of properties (located in Buenos Aires) published in [**Properati**](https://properati.com/).
 
 **-> Project status:** [ Completed ]
+
+[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](
+https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fdewith%2Fhouse-prices%2Fblob%2Fmain%2FP2_properati.ipynb)
+
 
 <br>
 
