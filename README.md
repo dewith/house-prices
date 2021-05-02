@@ -9,7 +9,7 @@
 ![GitHub](https://img.shields.io/github/license/dewith/property_prices)
 ![Maintaner](https://img.shields.io/badge/status-completed-blue)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dewith/property_prices)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dewith/badges/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dewith/badges/main)
 <!-- End buttons here -->
 
 
