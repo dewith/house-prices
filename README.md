@@ -1,28 +1,21 @@
-<!-- Add banner here -->
-![Banner](/images/header.png)
-
 # Property Price Prediction
 
 <!-- Add buttons here -->
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-![GitHub last commit](https://img.shields.io/github/last-commit/dewith/property_prices)
-![GitHub](https://img.shields.io/github/license/dewith/property_prices)
-![Maintaner](https://img.shields.io/badge/status-completed-blue)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dewith/property_prices)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dewith/badges/main)
+[![Open in Colab](https://img.shields.io/badge/-Open%20in%20Colab-e8710a?logo=google-colab)](https://colab.research.google.com/github/dewith/property_prices)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-black)](https://www.python.org/)
+![Status](https://img.shields.io/badge/Project%20status-Completed-black)
+![Last commit](https://img.shields.io/github/last-commit/dewith/property_prices?color=black)
+![License](https://img.shields.io/github/license/dewith/property_prices?color=black)
+
+
 <!-- End buttons here -->
 
 
 This project's aim is to predict the prices of properties (located in Buenos Aires) published in [**Properati**](https://properati.com/).
 
-**-> Project status:** [ Completed ]
+<details>
+<summary>Table of content</summary>
 
-
-
-<br>
-
-## Table of contents
-- [Table of contents](#table-of-contents)
 - [Project description](#project-description)
     - [Methods used](#methods-used)
     - [Technologies](#technologies)
@@ -30,7 +23,7 @@ This project's aim is to predict the prices of properties (located in Buenos Air
 - [Next steps](#next-steps)
 - [Contact](#contact)
 
-<br>
+</details>
 
 # Project description
 [(Back to top)](#table-of-contents)
@@ -56,7 +49,7 @@ Currently the process is slow, and there is a risk of under- or over-valuing a p
 
 <br>
 
-# Results
+# Results :dart:
 [(Back to top)](#table-of-contents)
 
 In the project I studied in detail the predictor variables and their relationships with the target variable. Based on the exploratory analysis I found that the variables that best predict the price of a property are the surface area_covered and the number of bathrooms. An average error of 49k USD was achieved with the best model (XGBoost), which is equivalent to 16.8% average error.
